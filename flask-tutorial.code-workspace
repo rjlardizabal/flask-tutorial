@@ -4,5 +4,12 @@
 			"path": "."
 		}
 	],
-	"settings": {}
+	"settings": {
+		"python.pythonPath": "C:\\Users\\mynameisarjay\\AppData\\Local\\Programs\\Python\\Python37-32\\python.exe",
+		"terminal.integrated.shellArgs.windows": [
+			"/k",
+			"workon djangodev"
+		],
+	}
+	
 }
